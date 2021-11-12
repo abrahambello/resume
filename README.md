@@ -1,2 +1,6 @@
 # resume
-Professional resume created with Koajs HTML and Ejs template and hosted on netlify
+Professional resume created with the following;
+  - Koajs
+  - HTML
+  - Ejs template engine
+and hosted on netlify
