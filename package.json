@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Professional Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahambello/resume.git"
+  },
+  "author": "Abraham Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahambello/resume/issues"
+  },
+  "homepage": "https://github.com/abrahambello/resume#readme"
+}
